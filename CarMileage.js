@@ -15,5 +15,7 @@ function carMileage(carData) {
      and the average mileage is ${avgMileage.toFixed(2)}`;
 }
 console.log(carMileage(cars));
-
+/*Maximum mileage is 50000
+and Minimum mileage is 13000
+and the average mileage is 28660.00 */
 /==================================================================================/;

@@ -12,5 +12,5 @@ function findMissingLetter(strArr) {
 }
 
 console.log(findMissingLetter(["a", "c", "d", "e", "f"]));
-
+//b
 /====================================================================================/;

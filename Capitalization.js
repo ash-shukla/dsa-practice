@@ -11,4 +11,5 @@ function sentenceCapitalization(sentence) {
     .join(" ");
 }
 console.log(sentenceCapitalization("bharat is the best country"));
+//Bharat Is The Best Country
 /===========================================================================/;

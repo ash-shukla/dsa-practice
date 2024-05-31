@@ -11,4 +11,5 @@ function checkAnagram(str1, str2) {
   return console.log(result);
 }
 checkAnagram("listen", "silent");
+// true
 /=====================================================================================/;

@@ -22,4 +22,5 @@ function hashTagGenerator(str) {
 }
 
 console.log(hashTagGenerator("india win t20"));
+//#IndiaWinT20
 /======================================================================================/;
