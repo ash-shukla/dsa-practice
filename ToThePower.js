@@ -9,6 +9,7 @@ function toThePower(num, power) {
   return result;
 }
 console.log(toThePower(3, 1));
+//3
 
 //Method-2
 function toThePower2(num, power) {
@@ -20,4 +21,5 @@ function toThePower2(num, power) {
 }
 
 console.log(toThePower2(3, 7));
+//2187
 /===================================================================/;

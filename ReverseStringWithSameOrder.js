@@ -12,6 +12,7 @@ function reverseStringWithSameOrder(str) {
 }
 
 console.log(reverseStringWithSameOrder("hello world"));
+//olleh dlrow//
 /===========================================================================/;
 // console.log(
 //   "ashish"

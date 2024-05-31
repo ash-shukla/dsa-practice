@@ -6,6 +6,7 @@ function reverseString(str) {
 }
 
 console.log(reverseString("Ashish is a good boy"));
+//yob doog a si hsihsA//
 
 // Method-2
 function reverseString2(str) {
@@ -16,3 +17,4 @@ function reverseString2(str) {
 }
 
 console.log(reverseString2("this is for second method"));
+//dohtem dnoces rof si siht//
