@@ -8,4 +8,4 @@ function factorial(number) {
 
   return result === Infinity ? false : result;
 }
-console.log(factorial(500));
+console.log(factorial(6));
